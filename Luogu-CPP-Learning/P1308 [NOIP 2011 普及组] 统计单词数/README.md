@@ -54,8 +54,8 @@ Did the Ottoman Empire lose its power at that time
 
 数据范围
 
-$1\leq $ 第一行单词长度 $\leq10$。
+第一行单词长度 
 
-$1\leq $ 文章长度 $\leq10^6$。
+文章长度
 
 noip2011 普及组第 2 题
